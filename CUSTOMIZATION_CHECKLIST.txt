@@ -1,0 +1,217 @@
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     PHOTOPRO KENYA - CUSTOMIZATION CHECKLIST                     ║
+║     Complete these steps to make the site yours!                 ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+┌─────────────────────────────────────────────────────────────────┐
+│ ⚡ CRITICAL - DO THIS FIRST (Required)                           │
+└─────────────────────────────────────────────────────────────────┘
+
+[ ] Step 1: Update WhatsApp Number
+    File: script.js (Line 2)
+    Find: const WHATSAPP_NUMBER = '254XXXXXXXXX';
+    Replace with: Your actual WhatsApp number
+    Format: 254 + your 9 digits (e.g., 254712345678)
+
+[ ] Step 2: Test WhatsApp Connection
+    - Open index.html in browser
+    - Click any WhatsApp button
+    - Verify it opens correctly
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 🎯 IMPORTANT - Customize Content (Highly Recommended)           │
+└─────────────────────────────────────────────────────────────────┘
+
+[ ] Step 3: Update Business Name (Optional)
+    File: index.html
+    Search for: "PhotoPro Kenya"
+    Replace with: Your business name (or keep as is)
+
+[ ] Step 4: Update Pricing
+    File: index.html (Pricing Section)
+    Current prices:
+    - Basic Edit: KSh 500
+    - Standard Package: KSh 1,200
+    - Premium Package: KSh 2,500
+    Update to: Your actual prices
+
+[ ] Step 5: Update Service Prices
+    File: index.html (Services Section)
+    Update individual service prices:
+    - Hairstyle Changes: From KSh 300
+    - Body Enhancement: From KSh 500
+    - Outfit Changes: From KSh 400
+    - Background Magic: From KSh 250
+    - Skin Perfection: From KSh 200
+    - Product Mockups: From KSh 600
+    - Ad Creatives: From KSh 800
+    - Photo Manipulation: From KSh 500
+
+[ ] Step 6: Update Contact Information
+    File: index.html (Footer Section)
+    Update:
+    - Phone: +254 XXX XXX XXX
+    - Email: info@photoprokenya.com
+    - Location: Serving all of Kenya
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 🎨 OPTIONAL - Enhance Your Page                                 │
+└─────────────────────────────────────────────────────────────────┘
+
+[ ] Step 7: Add Your Logo (Optional)
+    - Create or get your logo
+    - Save as logo.png or logo.svg
+    - Replace SVG logo in index.html
+
+[ ] Step 8: Change Brand Colors (Optional)
+    File: styles.css (Lines 13-23)
+    Current colors:
+    - Primary: #FF6B6B (Red/Pink)
+    - Secondary: #4ECDC4 (Teal)
+    - Accent: #FFE66D (Yellow)
+    Change to: Your brand colors
+
+[ ] Step 9: Add Real Before/After Photos (Recommended)
+    - Create "images" folder
+    - Add your before/after photos
+    - Update gallery section in index.html
+    - Remember: Get client permission!
+
+[ ] Step 10: Customize Testimonials
+    File: index.html (Testimonials Section)
+    Add real client reviews:
+    - Client name
+    - Location
+    - Review text
+
+[ ] Step 11: Update Statistics
+    File: index.html (Hero Section)
+    Find: "Trusted by 1000+ Kenyans"
+    Update to: Your actual number
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 🚀 DEPLOYMENT - Go Live!                                        │
+└─────────────────────────────────────────────────────────────────┘
+
+[ ] Step 12: Choose Hosting Method
+    Pick one:
+    [ ] GitHub Pages (Free, Easy)
+    [ ] Netlify (Free, Very Easy)
+    [ ] Your Own Hosting (cPanel/FTP)
+
+[ ] Step 13: Upload Files
+    Files to upload:
+    - index.html
+    - styles.css
+    - script.js
+    (Optional: images folder if you added photos)
+
+[ ] Step 14: Test Live Site
+    [ ] Opens on mobile
+    [ ] WhatsApp buttons work
+    [ ] All text is correct
+    [ ] Loads quickly
+    [ ] No broken links
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 📱 TESTING - Verify Everything Works                            │
+└─────────────────────────────────────────────────────────────────┘
+
+[ ] Mobile Testing
+    [ ] Test on your smartphone
+    [ ] Click all WhatsApp buttons
+    [ ] Check text is readable
+    [ ] Buttons are easy to tap
+    [ ] Page loads fast
+
+[ ] Desktop Testing
+    [ ] Test in Chrome
+    [ ] Test in Safari/Firefox
+    [ ] Resize browser window
+    [ ] Check all sections display correctly
+
+[ ] WhatsApp Testing
+    [ ] Hero section button
+    [ ] Services section button
+    [ ] Process section button
+    [ ] Pricing buttons (all 3)
+    [ ] Final CTA button
+    [ ] Floating button
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 📈 MARKETING - Get Customers!                                   │
+└─────────────────────────────────────────────────────────────────┘
+
+[ ] Step 15: Share Your Link
+    [ ] Add to Instagram bio
+    [ ] Add to Facebook page
+    [ ] Post on WhatsApp Status
+    [ ] Share in relevant groups
+    [ ] Send to friends/family
+
+[ ] Step 16: Set Up Analytics (Optional)
+    [ ] Google Analytics
+    [ ] Facebook Pixel
+    [ ] Track conversions
+
+[ ] Step 17: Create Marketing Materials
+    [ ] Screenshot your best work
+    [ ] Create social media posts
+    [ ] Prepare introduction message
+
+┌─────────────────────────────────────────────────────────────────┐
+│ ✅ FINAL CHECKS Before Announcing                               │
+└─────────────────────────────────────────────────────────────────┘
+
+[ ] WhatsApp number is 100% correct
+[ ] You can receive WhatsApp messages
+[ ] All prices are accurate
+[ ] Contact information is correct
+[ ] No spelling/grammar errors
+[ ] Tested on at least 2 devices
+[ ] Ready to respond to inquiries quickly
+[ ] Have some example work ready to show
+
+┌─────────────────────────────────────────────────────────────────┐
+│ 🎉 LAUNCH DAY!                                                  │
+└─────────────────────────────────────────────────────────────────┘
+
+[ ] Site is live
+[ ] Shared with network
+[ ] Monitoring for messages
+[ ] Ready to deliver amazing work!
+
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  💡 PRO TIPS                                                     ║
+║                                                                  ║
+║  → Respond to WhatsApp messages within 5 minutes                ║
+║  → Under-promise, over-deliver on quality                       ║
+║  → Ask happy clients for testimonials                           ║
+║  → Update your portfolio regularly                              ║
+║  → Stay active on social media                                  ║
+║  → Offer excellent customer service                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+
+Need help? Check:
+- README.md for detailed information
+- SETUP_GUIDE.md for step-by-step instructions
+- Code comments in each file
+
+Good luck with your business! 🇰🇪 🚀
+
+
+
+
+
+
+
+
+
+
+
+
+
